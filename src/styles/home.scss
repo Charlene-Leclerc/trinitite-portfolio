@@ -1,0 +1,36 @@
+.home {
+    background: var(--black-color);
+    height: 80vh;
+}
+
+.studio-container {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+
+    .box {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+
+
+        h1 {
+            color: var(--white-color);
+            font-size: 4rem;
+            text-align: center;
+            font-weight: 300;
+        }
+
+        h3 {
+            font-style: italic;
+            color: var(--white-color);
+            font-size: 1.6rem;
+            text-align: center;
+            padding-top: 50px;
+            font-weight: 500;
+        }
+    }
+
+
+}
