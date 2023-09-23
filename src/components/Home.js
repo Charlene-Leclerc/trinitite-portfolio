@@ -1,3 +1,4 @@
+import '../styles/home.scss'
 import React from 'react';
 //import baniere from '../images/Baniiere_Artstation.jpg'
 
