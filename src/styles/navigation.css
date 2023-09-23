@@ -25,24 +25,30 @@
 
 
 
-    &:active {
-        text-decoration: solid;
-    }
 
-    &:not(active) {
-        text-decoration: none;
-    }
+
+
 }
 
 .nav-link:hover {
     color: var(--blue-bg-color);
 }
 
+.nav-link:active {
+    text-decoration: solid;
+}
+
+.nav-link:not(active) {
+    text-decoration: solid;
+}
+
 .studio-box {
     align-items: center;
     display: flex;
 
-    img {
-        width: 100px;
-    }
+
+}
+
+img {
+    width: 100px;
 }
