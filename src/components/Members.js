@@ -7,7 +7,7 @@ const Members = () => {
     return (
         <div className="presentation-pages">
             <div className="box">
-                <img src={st_avatar} alt="" />
+                <img src={st_avatar} alt="" className='avatar-img' />
                 <div className="data">
                     <h2>STEVE HENRY</h2>
                     <h3>Infographiste 2D/3D</h3>
@@ -23,7 +23,7 @@ const Members = () => {
             </div>
             <div className="box">
 
-                <img src={ch_avatar} alt='' />
+                <img src={ch_avatar} alt='' className='avatar-img' />
                 <div className="data">
                     <h2>CHARLENE LECLERC</h2>
                     <h3>Developpeuse</h3>
