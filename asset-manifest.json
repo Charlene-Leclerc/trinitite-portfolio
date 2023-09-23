@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/trinitite-portfolio/static/css/main.a5a1a615.css",
+    "main.css": "/trinitite-portfolio/static/css/main.2af0d220.css",
     "main.js": "/trinitite-portfolio/static/js/main.693a008b.js",
     "static/media/Charlene_Avatar_Square.png": "/trinitite-portfolio/static/media/Charlene_Avatar_Square.60faa9caad47b5b21d3d.png",
     "static/media/Steve_Avatar.png": "/trinitite-portfolio/static/media/Steve_Avatar.5d7b1c4a735d6daf1232.png",
     "static/media/LOGO_Trinititestudio_black.png": "/trinitite-portfolio/static/media/LOGO_Trinititestudio_black.3384fb9a1995651396f9.png",
     "static/media/Rework_LOGO_Trinitite_Black_BG.png": "/trinitite-portfolio/static/media/Rework_LOGO_Trinitite_Black_BG.014b3be964e466ac1ac9.png",
     "index.html": "/trinitite-portfolio/index.html",
-    "main.a5a1a615.css.map": "/trinitite-portfolio/static/css/main.a5a1a615.css.map",
+    "main.2af0d220.css.map": "/trinitite-portfolio/static/css/main.2af0d220.css.map",
     "main.693a008b.js.map": "/trinitite-portfolio/static/js/main.693a008b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5a1a615.css",
+    "static/css/main.2af0d220.css",
     "static/js/main.693a008b.js"
   ]
 }
