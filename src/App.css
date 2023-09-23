@@ -5,6 +5,7 @@
 @import './styles/navigation.css';
 @import 'styles/about.css';
 @import 'styles/members.css';
+@import 'bootstrap/dist/css/bootstrap.min.css';
 
 * {
 
