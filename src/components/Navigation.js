@@ -1,7 +1,7 @@
 import React from 'react';
 import { Nav, Navbar, Container } from 'react-bootstrap';
 import '../styles/navigation.css'
-//simport logo from '../images/LOGO_Trinititestudio_black.png';
+import logo from '../images/LOGO_Trinititestudio_black.png';
 
 const Navigation = () => {
     return (
@@ -9,7 +9,7 @@ const Navigation = () => {
             <Navbar bg="dark" data-bs-theme="dark" className='navbar'>
                 <Container className="container">
                     <div className="studio-box">
-                        {/*<img src={logo} alt="" />*/}
+                        <img src={logo} alt="" />
                         <Navbar.Brand href="#home" className='navbar-brand'>TRINITITE <br />STUDIO</Navbar.Brand>
                     </div>
 
