@@ -1,12 +1,12 @@
 import React from 'react';
-import st_avatar from '../images/Steve_Avatar.png'
-import ch_avatar from '../images/Charlene_Avatar_Square.png'
+//import st_avatar from '../images/Steve_Avatar.png'
+//import ch_avatar from '../images/Charlene_Avatar_Square.png'
 
 const Members = () => {
     return (
         <div className="presentation-pages">
             <div className="box">
-                <img src={st_avatar} alt="" />
+                {/*<img src={st_avatar} alt="" />*/}
                 <div className="data">
                     <h2>STEVE HENRY</h2>
                     <h3>Infographiste 2D/3D</h3>
@@ -22,7 +22,7 @@ const Members = () => {
             </div>
             <div className="box">
 
-                <img src={ch_avatar} alt='' />
+                {/*<img src={ch_avatar} alt='' />*/}
                 <div className="data">
                     <h2>CHARLENE LECLERC</h2>
                     <h3>Developpeuse</h3>
