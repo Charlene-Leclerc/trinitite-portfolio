@@ -8,6 +8,7 @@ const Main = () => {
             <Navigation />
             <Home />
             <About />
+
         </>
     );
 };

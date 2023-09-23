@@ -6,6 +6,7 @@ import ch_avatar from '../images/Charlene_Avatar_Square.png';
 
 const Members = () => {
     return (
+
         <div className="presentation-pages">
             <div className="box">
                 <img src={st_avatar} alt="" className='avatar-img' />

@@ -6,8 +6,9 @@ import logo from '../images/Rework_LOGO_Trinitite_Black_BG.png';
 
 const About = () => {
     return (
-        <section className="about" id='about'>
-            <div className='about-container'>
+        <>
+            <section className="about" id='about'>
+
                 <div className="box">
                     <img src={logo} alt="" className='logo-about' />
                     <div className="resume">
@@ -21,11 +22,11 @@ const About = () => {
                         </p>
                     </div>
                 </div>
-            </div>
+            </section>
             <div className="members">
                 <Members />
             </div>
-        </section>
+        </>
     );
 };
 
