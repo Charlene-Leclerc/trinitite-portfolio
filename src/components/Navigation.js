@@ -8,7 +8,7 @@ const Navigation = () => {
             <Navbar bg="dark" data-bs-theme="dark" className='navbar'>
                 <Container className="container">
                     <div className="studio-box">
-                        <img src={logo} alt="" />
+                        <img src={process.env.PUBLIC_URL + "/images/LOGO_Trinititestudio_black.png"} alt="" />
                         <Navbar.Brand href="#home" className='navbar-brand'>TRINITITE <br />STUDIO</Navbar.Brand>
                     </div>
 
