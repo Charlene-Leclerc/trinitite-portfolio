@@ -6,9 +6,7 @@
     min-height: 100vh;
     position: relative;
 
-    img {
-        width: 400px;
-    }
+
 }
 
 .box {
@@ -42,4 +40,8 @@ p {
     font-weight: 200;
     line-height: 25px;
     font-size: 1.2rem;
+}
+
+img {
+    width: 400px;
 }
