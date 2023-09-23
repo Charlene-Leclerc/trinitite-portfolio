@@ -1,4 +1,4 @@
-import '../styles/about.css';
+import '../styles/about.scss';
 import React from 'react';
 import Members from './Members';
 import logo from '../images/Rework_LOGO_Trinitite_Black_BG.png';

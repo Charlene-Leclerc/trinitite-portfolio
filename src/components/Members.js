@@ -1,7 +1,8 @@
+import '../styles/members.scss';
 import React from 'react';
 import st_avatar from '../images/Steve_Avatar.png';
 import ch_avatar from '../images/Charlene_Avatar_Square.png';
-import '../styles/members.css'
+
 
 const Members = () => {
     return (

@@ -1,0 +1,50 @@
+.header {
+    background: white;
+    padding: 1rem 5rem 1rem !important;
+
+}
+
+
+.navbar-brand {
+
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: var(--dark-grey-color);
+
+    &:hover {
+        color: var(--dark-grey-color);
+    }
+
+
+}
+
+.nav-link {
+    font-size: 1.1rem;
+    color: var(--dark-grey-color);
+
+    &:hover {
+        color: var(--blue-bg-color) !important;
+
+    }
+
+    &:active {
+        text-decoration: solid !important;
+        color: var(--blue-bg-color) !important;
+    }
+
+    &:not(active) {
+        text-decoration: none !important;
+        color: var(--dark-grey-color) !important;
+    }
+
+
+}
+
+.studio-box {
+    align-items: center;
+    display: flex;
+
+    .logo-nav {
+        width: 100px;
+    }
+}
