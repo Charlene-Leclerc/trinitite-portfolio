@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../images/Rework_LOGO_Trinitite_Black_BG.png';
+//import logo from '../images/Rework_LOGO_Trinitite_Black_BG.png';
 import Members from './Members'
 
 const About = () => {
@@ -7,7 +7,7 @@ const About = () => {
         <section className="about" id='about'>
             <div className='about-container'>
                 <div className="box">
-                    <img src={logo} alt="" />
+                    {/*<img src={logo} alt="" />*/}
                     <div className="resume">
                         <h2>A PROPOS DE NOUS</h2>
                         <h3>DEVELOPPEUR ET GRAPHISTES/DESGINER</h3>
