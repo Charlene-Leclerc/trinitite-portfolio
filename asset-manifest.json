@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/trinitite-portfolio/static/css/main.73882612.css",
-    "main.js": "/trinitite-portfolio/static/js/main.2bdb1229.js",
+    "main.css": "/trinitite-portfolio/static/css/main.24384f93.css",
+    "main.js": "/trinitite-portfolio/static/js/main.205f3ff8.js",
     "static/media/tbrender.mp4": "/trinitite-portfolio/static/media/tbrender.bd6bce18b2998bd81734.mp4",
     "static/media/04.mp4": "/trinitite-portfolio/static/media/04.18f51a303891f59089be.mp4",
     "static/media/03.mp4": "/trinitite-portfolio/static/media/03.889ef5c23eec89ff1309.mp4",
@@ -41,11 +41,11 @@
     "static/media/slick.ttf": "/trinitite-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/trinitite-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/trinitite-portfolio/index.html",
-    "main.73882612.css.map": "/trinitite-portfolio/static/css/main.73882612.css.map",
-    "main.2bdb1229.js.map": "/trinitite-portfolio/static/js/main.2bdb1229.js.map"
+    "main.24384f93.css.map": "/trinitite-portfolio/static/css/main.24384f93.css.map",
+    "main.205f3ff8.js.map": "/trinitite-portfolio/static/js/main.205f3ff8.js.map"
   },
   "entrypoints": [
-    "static/css/main.73882612.css",
-    "static/js/main.2bdb1229.js"
+    "static/css/main.24384f93.css",
+    "static/js/main.205f3ff8.js"
   ]
 }
