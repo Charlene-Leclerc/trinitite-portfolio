@@ -1,18 +1,42 @@
 {
   "files": {
-    "main.css": "/trinitite-portfolio/static/css/main.e2a3ab66.css",
-    "main.js": "/trinitite-portfolio/static/js/main.9635be69.js",
+    "main.css": "/trinitite-portfolio/static/css/main.e0173f3c.css",
+    "main.js": "/trinitite-portfolio/static/js/main.f4914d12.js",
+    "static/media/tbrender.mp4": "/trinitite-portfolio/static/media/tbrender.bd6bce18b2998bd81734.mp4",
+    "static/media/01.png": "/trinitite-portfolio/static/media/01.ac620f53704d0a50c5ac.png",
+    "static/media/Tools_and_weapons.mp4": "/trinitite-portfolio/static/media/Tools_and_weapons.e56acd9a15da2650c0fb.mp4",
+    "static/media/Cyrano_Video.mp4": "/trinitite-portfolio/static/media/Cyrano_Video.8a7bf1e92bfa1749df2d.mp4",
     "static/media/Charlene_Avatar_Square.png": "/trinitite-portfolio/static/media/Charlene_Avatar_Square.60faa9caad47b5b21d3d.png",
     "static/media/Steve_Avatar.png": "/trinitite-portfolio/static/media/Steve_Avatar.5d7b1c4a735d6daf1232.png",
     "static/media/Baniiere_Artstation.jpg": "/trinitite-portfolio/static/media/Baniiere_Artstation.669bdf68327e3b40c01c.jpg",
+    "static/media/07.jpg": "/trinitite-portfolio/static/media/07.c38c046d410c04442303.jpg",
+    "static/media/05.jpg": "/trinitite-portfolio/static/media/05.f258a78725ebd5404884.jpg",
+    "static/media/09.jpg": "/trinitite-portfolio/static/media/09.bc98e7763add8d4722ae.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/trinitite-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/04.jpg": "/trinitite-portfolio/static/media/04.d791b230668bb4b0ed16.jpg",
+    "static/media/Ambiant.jpg": "/trinitite-portfolio/static/media/Ambiant.361501cbe0d634d28329.jpg",
+    "static/media/03.jpg": "/trinitite-portfolio/static/media/03.87ee2433525443f437b9.jpg",
+    "static/media/code.jpg": "/trinitite-portfolio/static/media/code.b1f762d1c03bbc84d9ab.jpg",
     "static/media/LOGO_Trinititestudio_black.png": "/trinitite-portfolio/static/media/LOGO_Trinititestudio_black.3384fb9a1995651396f9.png",
     "static/media/Rework_LOGO_Trinitite_Black_BG.png": "/trinitite-portfolio/static/media/Rework_LOGO_Trinitite_Black_BG.014b3be964e466ac1ac9.png",
+    "static/media/10.jpg": "/trinitite-portfolio/static/media/10.8930fd22bc68393f6855.jpg",
+    "static/media/gameboy.jpg": "/trinitite-portfolio/static/media/gameboy.08fff4a3c8ecb60b432a.jpg",
+    "static/media/02.jpg": "/trinitite-portfolio/static/media/02.5898daa5842990034983.jpg",
+    "static/media/08.jpg": "/trinitite-portfolio/static/media/08.6b680dd0c5b5e78bf382.jpg",
+    "static/media/11.jpg": "/trinitite-portfolio/static/media/11.dddb0163720a869cf5f8.jpg",
+    "static/media/06.jpg": "/trinitite-portfolio/static/media/06.b902b98346387af1a1f6.jpg",
+    "static/media/winston.jpg": "/trinitite-portfolio/static/media/winston.9acfd5c7ecd5317011b1.jpg",
+    "static/media/Etsy_Shop_Trinitite.png": "/trinitite-portfolio/static/media/Etsy_Shop_Trinitite.eeccefdddc0ad59f9d2a.png",
+    "static/media/fontawesome-webfont.eot": "/trinitite-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/trinitite-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/trinitite-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/trinitite-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/trinitite-portfolio/index.html",
-    "main.e2a3ab66.css.map": "/trinitite-portfolio/static/css/main.e2a3ab66.css.map",
-    "main.9635be69.js.map": "/trinitite-portfolio/static/js/main.9635be69.js.map"
+    "main.e0173f3c.css.map": "/trinitite-portfolio/static/css/main.e0173f3c.css.map",
+    "main.f4914d12.js.map": "/trinitite-portfolio/static/js/main.f4914d12.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2a3ab66.css",
-    "static/js/main.9635be69.js"
+    "static/css/main.e0173f3c.css",
+    "static/js/main.f4914d12.js"
   ]
 }
