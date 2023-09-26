@@ -1,0 +1,51 @@
+export const ServicesModel = [
+    {
+        id: 0,
+        isImage: false,
+        img: require("../videos/Tools_and_weapons.mp4"),
+        title: "3D ASSETS",
+        resume: "Conception d'asset prêt pour les moteurs temps réel, ou simple prototypage",
+        details: 'Unreal/Unity/Marmoset',
+    },
+    {
+        id: 1,
+        isImage: false,
+        img: require("../videos/Cyrano_Video.mp4"),
+        title: "ILLUSTRATION",
+        resume: "Conception d'illustration personnalisé selon vos demande",
+        details: '2D/3D/Traditionnelle',
+    },
+    {
+        id: 2,
+        isImage: false,
+        img: require("../videos/tbrender.mp4"),
+        title: "PLAN DE CONSTRUCTION/RESTAURATION",
+        resume: "Restauration ou reproduction d'images abîmée",
+        details: 'Permis de construire/Portrait',
+    },
+    {
+        id: 3,
+        isImage: true,
+        img: require("../images/code.jpg"),
+        title: "CONCEPTION ET REALISATION DE SITE INTERNET",
+        resume: "Développement de la partie Front-End de votre site",
+        details: 'HTML5/CSS / JavaScript/TypeScript / React',
+    },
+    {
+        id: 4,
+        isImage: true,
+        img: require("../images/Ambiant.jpg"),
+        title: "PROTOTYPE JEU VIDEO / APPLICATION",
+        resume: "Conception de jeu vidéo",
+        details: 'Unreal/Unity/Application',
+    },
+    {
+        id: 5,
+        isImage: true,
+        img: require("../images/code.jpg"),
+        title: "NOS COMPETENCES, VOS EXIGENCES",
+        resume: "Compétences général : ",
+        details: 'Lua/C#/C++/C/React/Github/Figma',
+    },
+
+];

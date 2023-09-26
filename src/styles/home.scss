@@ -1,9 +1,22 @@
+@use 'main';
+
 .home {
-    background: var(--black-color);
-    min-height: 80vh;
+    background: black;
     position: relative;
     text-align: center;
-    color: var(--white-color);
+    color: main.$light-grey;
+    display: flex;
+    flex-wrap: wrap;
+
+    .background {
+        height: 100vh;
+
+        img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
 
 
     .box {
@@ -19,6 +32,7 @@
             font-size: 4rem;
             text-align: center;
             font-weight: 300;
+
         }
 
         h3 {

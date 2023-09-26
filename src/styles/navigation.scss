@@ -1,3 +1,5 @@
+@use 'main';
+
 .header {
     background: white;
     padding: 1rem 5rem 1rem !important;
@@ -9,10 +11,11 @@
 
     font-size: 1.5rem;
     font-weight: 300;
-    color: var(--dark-grey-color);
+    color: main.$dark-grey;
+
 
     &:hover {
-        color: var(--dark-grey-color);
+        color: main.$main-color;
     }
 
 
@@ -20,25 +23,26 @@
 
 .nav-link {
     font-size: 1.1rem;
-    color: var(--dark-grey-color);
+    color: main.$dark-grey;
 
     &:hover {
-        color: var(--blue-bg-color) !important;
+        color: main.$main-color !important;
 
     }
 
     &:active {
         text-decoration: solid !important;
-        color: var(--blue-bg-color) !important;
+        color: main.$main-color !important;
     }
 
     &:not(active) {
         text-decoration: none !important;
-        color: var(--dark-grey-color) !important;
+        color: main.$dark-grey !important;
     }
 
-
 }
+
+
 
 .studio-box {
     align-items: center;

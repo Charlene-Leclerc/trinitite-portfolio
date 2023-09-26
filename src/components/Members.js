@@ -18,7 +18,7 @@ const Members = () => {
                         <li>Formation de 3ans en arts traditionnelles (Beaux-Arts)</li>
                         <li>Formation Art numérique Bac+2 (Créajeux) </li>
                     </p>
-                    <a href='https://maccreene.artstation.com' target='_blank'>
+                    <a href='https://maccreene.artstation.com' target='_blank' rel="noreferrer">
                         <button> Voir le Portfolio</button>
                     </a>
                 </div>
@@ -34,7 +34,7 @@ const Members = () => {
                         <li>Formation développeur jeux vidéo Bac+3 (Créajeux)</li>
                         <li>Formation développeur Full-Stack Bac+2 (en cours, 3W Academy) </li>
                     </p>
-                    <a href='https://charlene-leclerc.github.io/portfolio' target='_blank'>
+                    <a href='https://charlene-leclerc.github.io/portfolio' target='_blank' rel="noreferrer">
                         <button> Voir le Portfolio</button>
                     </a>
                 </div>

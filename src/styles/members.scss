@@ -1,65 +1,61 @@
+@use 'main';
+
 .presentation-pages {
     width: 100%;
-    background: var(--white-color);
-    min-height: 80vh;
     position: relative;
     display: flex;
     flex-wrap: wrap;
 
-}
+
+    .box {
+        flex: 1 1 160px;
+        position: relative;
 
 
-.box {
-    flex: 1 1 160px;
-    position: relative;
-}
+        .data {
+            flex: 1 1 160px;
 
-.data {
-    flex: 1 1 160px;
+            color: main.$light-grey;
+            position: absolute;
+            bottom: 0;
 
-    color: var(--white-color);
-    position: absolute;
-    bottom: 25px;
-    left: 30px;
+            h2 {
+                line-height: 100px;
+                font-weight: 300;
+            }
 
+            h3 {
+                line-height: 100px;
+                font-weight: 400;
+            }
 
-}
+            .bold {
+                font-weight: bold;
+                padding-bottom: 20px;
+            }
 
-h2 {
-    line-height: 100px;
-    font-weight: 300;
-}
+            p {
+                line-height: 25px;
+            }
+        }
 
-h3 {
-    line-height: 100px;
-    font-weight: 400;
-}
+        img {
+            width: 100%;
 
-.bold {
-    font-weight: bold;
-    padding-bottom: 20px;
-}
+        }
 
-p {
-    line-height: 25px;
-}
+        button {
+            background: black;
+            color: main.$light-grey;
+            padding: 15px;
+            margin-top: 25px;
+            font-size: 1rem;
 
+            &:hover {
+                cursor: pointer;
+            }
+        }
 
-button {
-    background: var(--black-color);
-    color: var(--white-color);
-    padding: 15px;
-    margin-top: 25px;
-    font-size: 1rem;
-
-
-}
-
-button:hover {
-    cursor: pointer;
-}
-
-.avatar-img {
-    width: 100%;
+    }
 
 }
