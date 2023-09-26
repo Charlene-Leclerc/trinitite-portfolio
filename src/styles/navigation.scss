@@ -6,6 +6,15 @@
 
 }
 
+.container {
+    margin: 0 !important;
+    max-width: 100% !important;
+
+}
+
+#responsive-navbar-nav {
+    justify-content: flex-end;
+}
 
 .navbar-brand {
 
@@ -13,17 +22,15 @@
     font-weight: 300;
     color: main.$dark-grey;
 
-
     &:hover {
         color: main.$main-color;
     }
-
-
 }
 
 .nav-link {
     font-size: 1.1rem;
     color: main.$dark-grey;
+
 
     &:hover {
         color: main.$main-color !important;
@@ -41,8 +48,6 @@
     }
 
 }
-
-
 
 .studio-box {
     align-items: center;

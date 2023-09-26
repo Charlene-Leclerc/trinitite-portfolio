@@ -9,35 +9,36 @@ import { faFacebookF, faXTwitter, faArtstation, faInstagram, faEtsy } from '@for
 const Navigation = () => {
     return (
         <header className='header'>
-            <Navbar collapseOnSelect expand="md" className='navbar'>
+            <Navbar collapseOnSelect expand="lg" className="bg-light justify-content-between">
                 <Container>
                     <div className="studio-box">
                         <img src={logo} alt="" className='logo-nav' />
-                        <Navbar.Brand href="#home" className='navbar-brand'>TRINITITE <br />STUDIO</Navbar.Brand>
+                        <Navbar.Brand href="#home" className='navbar-brand'>TRINITITE STUDIO</Navbar.Brand>
                     </div>
-
-                    <Nav>
-                        <Nav.Link className="nav-link" href="#home">Accueil</Nav.Link>
-                        <Nav.Link className="nav-link" href="#about">A Propos</Nav.Link>
-                        <Nav.Link className="nav-link" href="#services">Services</Nav.Link>
-                        <Nav.Link className="nav-link" href="#gallery">Galerie</Nav.Link>
-                        <Nav.Link className="nav-link" href="https://www.facebook.com/TrinititeStudio">
-                            <FontAwesomeIcon icon={faFacebookF} />
-                        </Nav.Link>
-                        <Nav.Link className="nav-link" href="https://twitter.com/FranzLaFronde">
-                            <FontAwesomeIcon icon={faXTwitter} />
-                        </Nav.Link>
-                        <Nav.Link className="nav-link" href="https://maccreene.artstation.com/">
-                            <FontAwesomeIcon icon={faArtstation} />
-                        </Nav.Link>
-                        <Nav.Link className="nav-link" href="https://www.instagram.com/trinitite_studio/">
-                            <FontAwesomeIcon icon={faInstagram} />
-                        </Nav.Link>
-                        <Nav.Link className="nav-link" href="https://www.etsy.com/shop/trinititestudio/?etsrc=sdt">
-                            <FontAwesomeIcon icon={faEtsy} />
-                        </Nav.Link>
-                        <Nav.Link className="nav-link" href="#contact">Contact</Nav.Link>
-                    </Nav>
+                    <Navbar.Collapse id="responsive-navbar-nav">
+                        <Nav>
+                            <Nav.Link className="nav-link" href="#home">Accueil</Nav.Link>
+                            <Nav.Link className="nav-link" href="#about">A Propos</Nav.Link>
+                            <Nav.Link className="nav-link" href="#services">Services</Nav.Link>
+                            <Nav.Link className="nav-link" href="#gallery">Galerie</Nav.Link>
+                            <Nav.Link className="nav-link" href="https://www.facebook.com/TrinititeStudio">
+                                <FontAwesomeIcon icon={faFacebookF} />
+                            </Nav.Link>
+                            <Nav.Link className="nav-link" href="https://twitter.com/FranzLaFronde">
+                                <FontAwesomeIcon icon={faXTwitter} />
+                            </Nav.Link>
+                            <Nav.Link className="nav-link" href="https://maccreene.artstation.com/">
+                                <FontAwesomeIcon icon={faArtstation} />
+                            </Nav.Link>
+                            <Nav.Link className="nav-link" href="https://www.instagram.com/trinitite_studio/">
+                                <FontAwesomeIcon icon={faInstagram} />
+                            </Nav.Link>
+                            <Nav.Link className="nav-link" href="https://www.etsy.com/shop/trinititestudio/?etsrc=sdt">
+                                <FontAwesomeIcon icon={faEtsy} />
+                            </Nav.Link>
+                            <Nav.Link className="nav-link" href="#contact">Contact</Nav.Link>
+                        </Nav>
+                    </Navbar.Collapse>
                 </Container>
             </Navbar>
         </header>
