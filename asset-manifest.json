@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/trinitite-portfolio/static/css/main.24384f93.css",
-    "main.js": "/trinitite-portfolio/static/js/main.205f3ff8.js",
+    "main.css": "/trinitite-portfolio/static/css/main.5de52ffc.css",
+    "main.js": "/trinitite-portfolio/static/js/main.51e8aba4.js",
     "static/media/tbrender.mp4": "/trinitite-portfolio/static/media/tbrender.bd6bce18b2998bd81734.mp4",
     "static/media/04.mp4": "/trinitite-portfolio/static/media/04.18f51a303891f59089be.mp4",
     "static/media/03.mp4": "/trinitite-portfolio/static/media/03.889ef5c23eec89ff1309.mp4",
@@ -21,19 +21,35 @@
     "static/media/04.jpg": "/trinitite-portfolio/static/media/04.d791b230668bb4b0ed16.jpg",
     "static/media/Ambiant.jpg": "/trinitite-portfolio/static/media/Ambiant.361501cbe0d634d28329.jpg",
     "static/media/03.jpg": "/trinitite-portfolio/static/media/03.87ee2433525443f437b9.jpg",
+    "static/media/bob.jpg": "/trinitite-portfolio/static/media/bob.2cc7ae8b2c0591c61f8b.jpg",
     "static/media/code.jpg": "/trinitite-portfolio/static/media/code.b1f762d1c03bbc84d9ab.jpg",
+    "static/media/steve-buschemi.jpg": "/trinitite-portfolio/static/media/steve-buschemi.ccbb1cbcee8e5bfafeba.jpg",
+    "static/media/reinhardt02.jpg": "/trinitite-portfolio/static/media/reinhardt02.e0f2a0deabd433bcfcb4.jpg",
     "static/media/LOGO_Trinititestudio_black.png": "/trinitite-portfolio/static/media/LOGO_Trinititestudio_black.3384fb9a1995651396f9.png",
     "static/media/Rework_LOGO_Trinitite_Black_BG.png": "/trinitite-portfolio/static/media/Rework_LOGO_Trinitite_Black_BG.014b3be964e466ac1ac9.png",
     "static/media/10.jpg": "/trinitite-portfolio/static/media/10.8930fd22bc68393f6855.jpg",
     "static/media/gameboy.jpg": "/trinitite-portfolio/static/media/gameboy.08fff4a3c8ecb60b432a.jpg",
+    "static/media/table-insecte-1.jpg": "/trinitite-portfolio/static/media/table-insecte-1.902911bf618d71ce6c13.jpg",
+    "static/media/purple_queen.jpg": "/trinitite-portfolio/static/media/purple_queen.c71b6f12f28b659386be.jpg",
+    "static/media/ana.jpg": "/trinitite-portfolio/static/media/ana.4c7d4ad6bb432dd588a2.jpg",
     "static/media/02.jpg": "/trinitite-portfolio/static/media/02.5898daa5842990034983.jpg",
     "static/media/08.jpg": "/trinitite-portfolio/static/media/08.6b680dd0c5b5e78bf382.jpg",
+    "static/media/hanzo.jpg": "/trinitite-portfolio/static/media/hanzo.6b680dd0c5b5e78bf382.jpg",
+    "static/media/brigitte.jpg": "/trinitite-portfolio/static/media/brigitte.79bc8f3a3d766b0308c1.jpg",
+    "static/media/kiriko_planche.jpg": "/trinitite-portfolio/static/media/kiriko_planche.c835e312357055bef3a1.jpg",
     "static/media/11.jpg": "/trinitite-portfolio/static/media/11.dddb0163720a869cf5f8.jpg",
+    "static/media/winston_full.jpg": "/trinitite-portfolio/static/media/winston_full.dddb0163720a869cf5f8.jpg",
     "static/media/06.jpg": "/trinitite-portfolio/static/media/06.b902b98346387af1a1f6.jpg",
+    "static/media/zarya.jpg": "/trinitite-portfolio/static/media/zarya.91d1b95fa53e928db590.jpg",
+    "static/media/kiriko_grey.jpg": "/trinitite-portfolio/static/media/kiriko_grey.f3f79de215c16d7497d7.jpg",
     "static/media/winston.jpg": "/trinitite-portfolio/static/media/winston.9acfd5c7ecd5317011b1.jpg",
     "static/media/Etsy_Shop_Trinitite.png": "/trinitite-portfolio/static/media/Etsy_Shop_Trinitite.eeccefdddc0ad59f9d2a.png",
+    "static/media/reinhardt.jpg": "/trinitite-portfolio/static/media/reinhardt.86c7561a0a1e8294c93c.jpg",
+    "static/media/steve-henry-grdgg.jpg": "/trinitite-portfolio/static/media/steve-henry-grdgg.be3c3037fb166ee5b7f0.jpg",
     "static/media/fontawesome-webfont.eot": "/trinitite-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/trinitite-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/dva.jpg": "/trinitite-portfolio/static/media/dva.0ee4af55b1f5fe69517b.jpg",
+    "static/media/bushy.jpg": "/trinitite-portfolio/static/media/bushy.1732788d5d4236166302.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/trinitite-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/trinitite-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/slick.svg": "/trinitite-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -41,11 +57,11 @@
     "static/media/slick.ttf": "/trinitite-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/trinitite-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/trinitite-portfolio/index.html",
-    "main.24384f93.css.map": "/trinitite-portfolio/static/css/main.24384f93.css.map",
-    "main.205f3ff8.js.map": "/trinitite-portfolio/static/js/main.205f3ff8.js.map"
+    "main.5de52ffc.css.map": "/trinitite-portfolio/static/css/main.5de52ffc.css.map",
+    "main.51e8aba4.js.map": "/trinitite-portfolio/static/js/main.51e8aba4.js.map"
   },
   "entrypoints": [
-    "static/css/main.24384f93.css",
-    "static/js/main.205f3ff8.js"
+    "static/css/main.5de52ffc.css",
+    "static/js/main.51e8aba4.js"
   ]
 }
