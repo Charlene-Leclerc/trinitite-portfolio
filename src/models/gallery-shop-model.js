@@ -25,7 +25,7 @@ export const ShopModels = [
         title: "ARTWORK 3D",
         resume: "CREATION 3D TEMPS REEL / PROTOTYPAGE",
         button: "En savoir plus",
-        link: "",
+        link: "/trinitite-portfolio/artwork3d",
         isInternal: true,
 
     },

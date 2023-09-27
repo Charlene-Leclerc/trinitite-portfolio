@@ -1,7 +1,6 @@
 import React from 'react';
 import '../styles/footer.scss';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebookF, faXTwitter, faArtstation, faInstagram, faEtsy } from '@fortawesome/free-brands-svg-icons';
 import { Link } from 'react-router-dom';
 import { LOGOS } from '../models/footer-mod';
 

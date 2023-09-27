@@ -36,7 +36,7 @@ const Navigation = () => {
                             <Nav.Link className="nav-link" href="https://www.etsy.com/shop/trinititestudio/?etsrc=sdt">
                                 <FontAwesomeIcon icon={faEtsy} />
                             </Nav.Link>
-                            <Nav.Link className="nav-link" href="#contact">Contact</Nav.Link>
+                            <Nav.Link className="nav-link" href="/trinitite-portfolio/#contact">Contact</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
