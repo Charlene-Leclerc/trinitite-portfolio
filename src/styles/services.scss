@@ -11,10 +11,11 @@
         grid-template-columns: repeat(3, 2fr);
         align-items: center;
 
+
         .services-box {
             position: relative;
-            border: 1px solid black;
             color: main.$light-grey;
+
 
             img {
                 width: 100%;

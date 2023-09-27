@@ -17,10 +17,10 @@ const Navigation = () => {
                     </div>
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav>
-                            <Nav.Link className="nav-link" href="#home">Accueil</Nav.Link>
-                            <Nav.Link className="nav-link" href="#about">A Propos</Nav.Link>
-                            <Nav.Link className="nav-link" href="#services">Services</Nav.Link>
-                            <Nav.Link className="nav-link" href="#gallery">Galerie</Nav.Link>
+                            <Nav.Link className="nav-link" href="/trinitite-portfolio/#home">Accueil</Nav.Link>
+                            <Nav.Link className="nav-link" href="/trinitite-portfolio/#about">A Propos</Nav.Link>
+                            <Nav.Link className="nav-link" href="/trinitite-portfolio/#services">Services</Nav.Link>
+                            <Nav.Link className="nav-link" href="/trinitite-portfolio/#gallery">Galerie</Nav.Link>
                             <Nav.Link className="nav-link" href="https://www.facebook.com/TrinititeStudio">
                                 <FontAwesomeIcon icon={faFacebookF} />
                             </Nav.Link>

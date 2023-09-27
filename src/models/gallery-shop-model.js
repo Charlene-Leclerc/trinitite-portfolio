@@ -1,19 +1,23 @@
-export const ModelShop = [
+export const ShopModels = [
     {
         id: 0,
         image: require("../images/Etsy_Shop_Trinitite.png"),
-        title: "",
-        resume: "BOUTIQUE EN LIGNE",
+        title: "BOUTIQUE EN LIGNE",
+        resume: "VENTE DE TABLEAU AU FUSAIN",
         button: "Notre boutique Etsy",
         link: "https://www.etsy.com/shop/trinititestudio/?etsrc=sdt",
+        isInternal: false,
+
     },
     {
         id: 1,
-        image: require("../images/winston.jpg"),
+        image: require("../images/artwork2D/winston.jpg"),
         title: "ARTWORK 2D",
         resume: "CREATIONS 2D TRADITIONNELLE / PIXEL ART",
         button: "En savoir plus",
-        link: "",
+        link: "/trinitite-portfolio/artwork2d",
+        isInternal: true,
+
     },
     {
         id: 2,
@@ -22,5 +26,7 @@ export const ModelShop = [
         resume: "CREATION 3D TEMPS REEL / PROTOTYPAGE",
         button: "En savoir plus",
         link: "",
+        isInternal: true,
+
     },
 ];

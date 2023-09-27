@@ -1,0 +1,31 @@
+@use 'main';
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2.5rem;
+
+    h3 {
+        font-weight: 300;
+    }
+
+    .credit {
+        padding: 10px;
+    }
+
+    .icons {
+        display: flex;
+        padding: 10px;
+
+        .icon {
+            margin: 5px;
+            color: main.$dark-grey;
+
+            &:hover {
+                color: main.$main-color;
+            }
+        }
+    }
+}
